@@ -2,6 +2,8 @@
 
 Foobar is a Python library for dealing with geometric shapes.
 
+
+# Installation
 ```bash
 pip install geometry
 ```
