@@ -1,6 +1,6 @@
-# Foobar
+# geometry
 
-Foobar is a Python library for dealing with geometric shapes.
+geometry is a Python library for dealing with geometric shapes.
 
 
 # Installation
